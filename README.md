@@ -2,13 +2,10 @@
  Discord bot coded in python with tibia utilities
 
 # TODO's
- - Create Yasir class
- - Create Nah'bob class
- - Create Alesar class
- - Create Yaman class
- - Create Haroun class
+ - Create Djiins class [X]
+ - Create Traders class [X]
  - Create search any item and who to sell
- - Create search player: last death, level, voc, if is online or not
- - Create non audicted houses on specific world and city
+ - Create search player: last death, level, voc, if is online or not [X]
+ - Create monster_search: weaknesses, loot, exp, charm, life
  - Add discord.py to activate discord functions
 
