@@ -45,7 +45,6 @@ class Traders:
             raise ValueError("Soup could not find table itens")        
         return self.__generates_just_buy(all_tables)
 
-    
     def what_trader_buys(self) -> list:
         return list(self.__generate_items_and_values().keys())
 
